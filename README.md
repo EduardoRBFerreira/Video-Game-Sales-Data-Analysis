@@ -1,6 +1,6 @@
 # Project Background
 
-This project investigates an entire historical video game sales database to determine primary trends, market behavior, and geographical tendencies. As a Data Analyst for PixelPulse Games, the task was to provide data-driven information that could be utilized to inform business strategy, game development, and advertising campaigns.
+This project investigates an entire historical video game sales database to determine primary trends, market behavior, and geographical tendencies. As a Data Analyst, the task was to provide data-driven information that could be utilized to inform business strategy, game development, and advertising campaigns.
 
 The Tableau dashboard can be seen [here](https://public.tableau.com/views/VideoGameSalesDataAnalysis_17520594940830/TotalSalesOverTime?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
